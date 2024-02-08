@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning everything I can!!
 - 💞️ I’m looking to collaborate on Games, passion projects and any open source initiative
 - 📫 How to reach me: ping me on Twitter [@MadreDeDios77](https://twitter.com/MadreDeDios77)
+- 💼 My LinkedIn: [antoine-fougea](https://www.linkedin.com/in/antoine-fougea/)
